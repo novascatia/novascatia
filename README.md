@@ -2,7 +2,7 @@
   <br><br><br><br><br>
   
   <a href="https://novascript.site">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=28&pause=3000&color=7A0000&center=true&vCenter=true&width=500&height=80&lines=novascript.site; :D" alt="novascript.site" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=28&pause=3000&color=7A0000&center=true&vCenter=true&width=500&height=80&lines=novascript.site;..." alt="novascript.site" />
   </a>
   
   <br><br>
