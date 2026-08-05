@@ -1,57 +1,28 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02B8CC,100:6366F1&height=150&section=header&text=Hi%20there,%20I'm%20Novascatia!%20%F0%9F%91%8B&fontSize=40&fontColor=FFFFFF" width="100%" />
+</div>
 
-# Hi there, I'm Novascatia! 👋
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=novascatia&color=02B8CC&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Psychology%20Student-02B8CC?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Theme-Linear%20Inspired-6366F1?style=flat-square" alt="Theme" />
+</p>
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1000&color=02B8CC&center=true&vCenter=true&width=500&lines=Psychology+Student;Guitar+Enthusiast;Lurking+in+Motionime+Discord" alt="Typing SVG" />
+  </a>
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=novascatia&color=02B8CC&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Active%20Developer-02B8CC?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/Theme-Linear%20Inspired-6366F1?style=flat-square" alt="Theme" />
-</p>
+## 🧠 About Me
 
----
+- **Community:** You can find me on the Novascript Discord server.
 
-## 🚀 About Me
-
-Welcome to my space! I am a passionate developer focused on building clean, high-performance, and beautifully crafted applications. Inspired by modern design systems and efficient workflows, I strive for precision and writing optimized code.
-
----
-
-## 🎨 Design System & Aesthetic
-
-My projects and profiles often draw inspiration from minimalist, modern, and developer-first design systems (such as Linear).
-
-### Primary Palette
-| Color | Hex | Usage |
-| :---: | :--- | :--- |
-| ![#02B8CC](https://via.placeholder.com/15/02B8CC/000000?text=+) | `#02B8CC` | Primary Accent |
-| ![#6366F1](https://via.placeholder.com/15/6366F1/000000?text=+) | `#6366F1` | Secondary Accent |
-| ![#EB5757](https://via.placeholder.com/15/EB5757/000000?text=+) | `#EB5757` | Highlight / Alert |
-| ![#8B5CF6](https://via.placeholder.com/15/8B5CF6/000000?text=+) | `#8B5CF6` | Vibrant Purple |
-| ![#10B981](https://via.placeholder.com/15/10B981/000000?text=+) | `#10B981` | Success |
-
-### Neutral Palette
-| Color | Hex | Usage |
-| :---: | :--- | :--- |
-| ![#000000](https://via.placeholder.com/15/000000/000000?text=+) | `#000000` | Deep Background / Dark Mode |
-| ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) | `#FFFFFF` | Text / Contrast |
-| ![#9C9DA1](https://via.placeholder.com/15/9C9DA1/000000?text=+) | `#9C9DA1` | Muted Text |
-| ![#191D20](https://via.placeholder.com/15/191D20/000000?text=+) | `#191D20` | Surface Background |
-
----
-
-## 💻 Tech Stack & Tools
-
-- **Languages:** JavaScript, TypeScript, HTML5, CSS3
-- **Frameworks & Libraries:** React, Next.js, Node.js
-- **Styling & UI:** Tailwind CSS, Modern CSS Design Systems
-- **Workflow & Standards:** Clean Code, Performance Optimization, Documentation First
 
 ---
 
 <div align="center">
-  <i>"Simplicity is the soul of efficiency."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02B8CC,100:6366F1&height=100&section=footer&reversal=true" width="100%" />
 </div>
