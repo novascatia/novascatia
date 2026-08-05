@@ -1,4 +1,4 @@
-readme_content = """<div align="center">
+<div align="center">
   <a href="https://novascript.site">
     <img src="https://media.tenor.com/mJ9LpU0m8QIAAAAC/glitch-static.gif" width="800" height="50" />
   </a>
@@ -36,9 +36,4 @@ readme_content = """<div align="center">
   <a href="https://novascript.site">
     <img src="https://media.tenor.com/D_i-gKqM4KMAAAAi/blood-drip.gif" width="800" height="80" />
   </a>
-</div>"""
-
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(readme_content)
-    
-print("File generated successfully.")
+</div>
